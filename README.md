@@ -9,6 +9,7 @@ We are going to use for sampling the following image:
 The Data folder contains the sampling data and test images. Test images.
 
 Test images:
+
 ![Alt text](Data/Resim2_3.jpg?raw=true "Title")
 ![Alt text](Data/Resim3_2.jpg?raw=true "Title")
 
