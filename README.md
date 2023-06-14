@@ -2,6 +2,7 @@
 in this project, I will implement my own convolution algorithm and compare it with the ready convolution algorithm in python and the correlation algorithm. What we are going to do is to sample an oil tank and then find other tanks in the different images.
 
 We are going to use for sampling the following image: 
+
 ![Alt text](Data/temp_data_10.PNG?raw=true "Title")
 
 
